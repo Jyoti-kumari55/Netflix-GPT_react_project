@@ -1,4 +1,4 @@
-Netflix-GPT
+# Netflix-GPT
 
 ## Features that we built in the project
 
