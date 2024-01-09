@@ -25,5 +25,5 @@
 - Created a main controller & its secondary controllers
 - Fetch data for trailer video
 - Updated the store for trailer data
-- Embedded the Youtube vieeo and make it autolay and mute
+- Embedded the Youtube vieeo and make it autoplay and mute
 - Uses tailwind css to make the main controller look beatiful..
