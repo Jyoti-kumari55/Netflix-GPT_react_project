@@ -27,3 +27,9 @@
 - Updated the store for trailer data
 - Embedded the Youtube vieeo and make it autoplay and mute
 - Uses tailwind css to make the main controller look beatiful..
+- Build secondary container
+- Build movie list, movie cart
+- Fetch the details of upcoming, nowPlaying, top rated and popular movie details from the TMDB API
+- Make the browse page beautiful with tailwind css
+- Uses custom hooks for upcoming, nowPlaying, top rated and popular movie
+- 
