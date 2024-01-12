@@ -32,4 +32,7 @@
 - Fetch the details of upcoming, nowPlaying, top rated and popular movie details from the TMDB API
 - Make the browse page beautiful with tailwind css
 - Uses custom hooks for upcoming, nowPlaying, top rated and popular movie
+- Build GPT Search feature
+- build GPT Search Bar
+- Created Multi-Language feature in the app
 - 
