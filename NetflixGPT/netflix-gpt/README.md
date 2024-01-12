@@ -35,4 +35,10 @@
 - Build GPT Search feature
 - build GPT Search Bar
 - Created Multi-Language feature in the app
-- 
+- Get Access to the Open Ai 
+- Gpt Search API Call'
+- Fetch Movie Suggestion from TMDB
+- Reused the movieSlice to get movie data
+- Memoization
+- Added the .env file to hide the keys
+- Added more tailwaind CSS to make app responsive
