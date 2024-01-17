@@ -42,3 +42,7 @@
 - Memoization
 - Added the .env file to hide the keys
 - Added more tailwaind CSS to make app responsive
+
+## Project Video
+
+https://github.com/Jyoti-kumari55/NodeReactJS-Practice/assets/68436635/f9bbf295-729a-4cce-952c-c1bab1eda237
