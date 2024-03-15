@@ -49,4 +49,4 @@ https://github.com/Jyoti-kumari55/NodeReactJS-Practice/assets/68436635/f9bbf295-
 
 ## Netlify link
 
-https://calm-pudding-cfd10c.netlify.app
+https://netflix-gpt24.netlify.app/
